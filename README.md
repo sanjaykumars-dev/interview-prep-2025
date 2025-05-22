@@ -10,6 +10,7 @@ Each solution is optimized for clarity, performance, and readability. Wherever a
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [x] [Maximum SubArray](https://leetcode.com/problems/maximum-subarray/description/)
 
 ---
 
