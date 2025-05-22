@@ -4,6 +4,6 @@ This repository contains solutions to popular data structures and algorithms pro
 
 ## Topics
 - Arrays
-  - [ ] Two Sum
+  - [x] Two Sum
   - [ ] Best Time to Buy and Sell Stock
   - [ ] Product of Array Except Self
