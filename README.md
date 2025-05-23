@@ -11,6 +11,7 @@ Each solution is optimized for clarity, performance, and readability. Wherever a
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [x] [Maximum SubArray](https://leetcode.com/problems/maximum-subarray/description/)
+- [x] [ Maximum Average Subarray I](ttps://leetcode.com/problems/maximum-average-subarray-i/description/)
 
 ---
 
@@ -23,7 +24,6 @@ Each solution is optimized for clarity, performance, and readability. Wherever a
 Prepare for top-tier software engineering interviews (24+ LPA roles) by building a strong foundation in core DSA concepts using Java.
 
 ## 📌 Coming Soon
-- Sliding Window problems
 - Stack and Queue
 - Binary Search
 - Dynamic Programming
