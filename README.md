@@ -18,7 +18,8 @@ Each solution is optimized for clarity, performance, and readability. Wherever a
 | Easy       | [ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                         |
 | Medium     | [ Two Sum II ](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)                                                  |
 | Medium     | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)                                            |
-| Easy       | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)                                                                                                                              |
+| Easy       | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)                                                                        |
+| Easy       | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)                                                                                                                         |
 
 
 ---
