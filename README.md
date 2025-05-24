@@ -19,7 +19,8 @@ Each solution is optimized for clarity, performance, and readability. Wherever a
 | Medium     | [ Two Sum II ](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)                                                  |
 | Medium     | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)                                            |
 | Easy       | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)                                                                        |
-| Easy       | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)                                                                                                                         |
+| Easy       | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)                                                              |
+| Easy       | [Majority Element](https://leetcode.com/problems/majority-element/description/)                                                                                                                         |
 
 
 ---
