@@ -7,15 +7,17 @@ Each solution is optimized for clarity, performance, and readability. Wherever a
 ## 📚 Topics Covered
 
 ### Arrays
-| Difficulty | Problem |
-|------------|---------|
-| Easy       | [ Two Sum](https://leetcode.com/problems/two-sum/) |
-| Easy       | [ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
-| Medium     | [ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |
-| Easy       | [ Maximum SubArray](https://leetcode.com/problems/maximum-subarray/description/) |
-| Easy       | [ Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) |
+| Difficulty | Problem                                                                                                                                      |
+|------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| Easy       | [ Two Sum](https://leetcode.com/problems/two-sum/)                                                                                           |
+| Easy       | [ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                           |
+| Medium     | [ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                                 |
+| Easy       | [ Maximum SubArray](https://leetcode.com/problems/maximum-subarray/description/)                                                             |
+| Easy       | [ Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)                                         |
 | Medium     | [ Longest SubString Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |
-| Easy       | [ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |
+| Easy       | [ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                         |
+| Medium     | [ Two Sum II ](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)                                                                                                                             |
+
 
 ---
 
