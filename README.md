@@ -20,7 +20,8 @@ Each solution is optimized for clarity, performance, and readability. Wherever a
 | Medium     | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)                                            |
 | Easy       | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)                                                                        |
 | Easy       | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)                                                              |
-| Easy       | [Majority Element](https://leetcode.com/problems/majority-element/description/)                                                                                                                         |
+| Easy       | [Majority Element](https://leetcode.com/problems/majority-element/description/)                                                              |
+| Medium     | [Three Sum](https://leetcode.com/problems/3sum/description/)                                                                                                                                |
 
 
 ---
