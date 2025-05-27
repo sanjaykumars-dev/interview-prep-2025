@@ -21,7 +21,8 @@ Each solution is optimized for clarity, performance, and readability. Wherever a
 | Easy       | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)                                                                        |
 | Easy       | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)                                                              |
 | Easy       | [Majority Element](https://leetcode.com/problems/majority-element/description/)                                                              |
-| Medium     | [Three Sum](https://leetcode.com/problems/3sum/description/)                                                                                                                                |
+| Medium     | [Three Sum](https://leetcode.com/problems/3sum/description/)                                                                                 |
+| Medium     | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)                                                                                                                |
 
 
 ---
