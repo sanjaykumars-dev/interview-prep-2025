@@ -4,7 +4,7 @@
  * Contains both brute force and optimized solution.
  */
 
-package arrays;
+package main.java.arrays;
 
 public class ContainerWithMostWater {
     public static void main(String[] args) {

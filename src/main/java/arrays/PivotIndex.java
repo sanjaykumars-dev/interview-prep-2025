@@ -3,7 +3,7 @@
  * https://leetcode.com/problems/find-pivot-index/description/
  */
 
-package arrays;
+package main.java.arrays;
 
 public class PivotIndex {
     public static void main(String[] args) {

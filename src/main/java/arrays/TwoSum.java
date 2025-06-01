@@ -1,5 +1,5 @@
 // Problem : https://leetcode.com/problems/two-sum/
-package arrays;
+package main.java.arrays;
 
 import java.util.HashMap;
 

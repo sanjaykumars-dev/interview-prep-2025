@@ -4,7 +4,7 @@
  * Includes both brute-force and optimal approach.
  */
 
-package arrays;
+package main.java.arrays;
 
 public class MinimumSizeSubArraySum {
     public static void main(String[] args) {

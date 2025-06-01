@@ -4,7 +4,7 @@
  * Optimized solution using two-pointer technique.
  */
 
-package arrays;
+package main.java.arrays;
 
 public class ValidPalindrome {
     public static void main(String[] args) {

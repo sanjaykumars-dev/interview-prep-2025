@@ -4,7 +4,7 @@
  * Contains both brute force and optimized solutions
  */
 
-package arrays;
+package main.java.arrays;
 
 public class MaximumAverageSubarrayI {
     public static void main(String[] args) {

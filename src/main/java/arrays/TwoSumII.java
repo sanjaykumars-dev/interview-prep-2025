@@ -4,11 +4,11 @@
  *
  * This class contains:
  * Brute Force solution – O(n^2)
- * HashMap-based solution for unsorted arrays – O(n) time, O(n) space
- * Optimized Two-Pointer solution for sorted arrays – O(n) time, O(1) space
+ * HashMap-based solution for unsorted main.java.arrays – O(n) time, O(n) space
+ * Optimized Two-Pointer solution for sorted main.java.arrays – O(n) time, O(1) space
  */
 
-package arrays;
+package main.java.arrays;
 
 import java.util.Arrays;
 import java.util.HashMap;
@@ -43,7 +43,7 @@ public class TwoSumII {
     }
 
     /**
-     * HashMap Solution (for unsorted arrays):
+     * HashMap Solution (for unsorted main.java.arrays):
      * Stores visited elements and their indices in a map.
      * Time Complexity: O(n)
      * Space Complexity: O(n)
@@ -70,7 +70,7 @@ public class TwoSumII {
     }
 
     /**
-     * Optimized Two-Pointer Solution (for sorted arrays):
+     * Optimized Two-Pointer Solution (for sorted main.java.arrays):
      * Use two pointers to find the target sum.
      * Time Complexity: O(n)
      * Space Complexity: O(1)

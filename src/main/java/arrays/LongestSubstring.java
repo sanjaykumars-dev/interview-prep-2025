@@ -4,7 +4,7 @@
  * Contains both brute force and optimized solution.
  */
 
-package arrays;
+package main.java.arrays;
 
 import java.util.HashMap;
 import java.util.HashSet;

@@ -5,7 +5,7 @@
  * Contains both brute-force and optimized solutions.
  */
 
-package arrays;
+package main.java.arrays;
 
 public class BestTimeToBuyAndSellStock {
 

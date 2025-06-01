@@ -4,7 +4,7 @@
  * contains both brute force and optimized solution
  */
 
-package arrays;
+package main.java.arrays;
 
 public class MaximumSubarray {
     public static void main(String[] args) {
