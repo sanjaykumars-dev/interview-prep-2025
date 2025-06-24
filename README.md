@@ -26,11 +26,19 @@ This repository contains Java implementations of frequently asked **Data Structu
 
 ---
 
+## Pattern Based Questions
+
+### Sliding Window
+| Difficulty | Problem                                                           |
+|------------|-------------------------------------------------------------------|
+| Medium     | [Grumpy Book Store Owner](https://leetcode.com/problems/grumpy-bookstore-owner/description/?envType=problem-list-v2&envId=sliding-window) |
+
 ### Data Structure Implementations
 
-| Implementation | Description |
-|----------------|-------------|
+| Implementation           | Description                                                                                                                                                                                             |
+|--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Binary Search Tree (BST) | A complete implementation of a BST with operations like insertion, in-order traversal, height, size, number of leaf nodes, min/max value lookup, and search. Located under `src/tree/BinarySearchTree.java` |
+| AVL Tree                 | Implemented AVL Tree with basic insert functionality. Located under `src/tree/AVLTree.java`                                                                                                                                                   |
 
 ---
 
