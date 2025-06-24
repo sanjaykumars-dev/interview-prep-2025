@@ -59,6 +59,9 @@ public class BinarySearchTree {
 
     private int height(Node currentNode) {
         if (currentNode == null) return -1;
+        if(currentNode.left == null && currentNode.right == null){
+            return 0;
+        }
         return 1 + Math.max(height(currentNode.left), height(currentNode.right));
     }
 
@@ -126,6 +129,21 @@ public class BinarySearchTree {
         return (target < currentNode.data)
                 ? search(currentNode.left, target)
                 : search(currentNode.right, target);
+    }
+
+    public void delete(int target){
+        root = delete(target,root);
+    }
+
+    private Node delete(int target, Node current){
+        if(current == null){
+            return current;
+        }
+
+        if(search(current,target)){
+            
+        }
+        return current;
     }
 
     private class Node {
